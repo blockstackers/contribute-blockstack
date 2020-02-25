@@ -16,7 +16,7 @@ Blockstack's engineering work is wide-ranging and well-documented.
 Community developers and the Blockstack Engineering team meet (virtually) at least once a month to share technical updates and engineering knowledge. 
 - Look out for the next meeting on the [community calendar](https://community.blockstack.org/events#tags=229080&start_date=2020-02-24&view=stream&range=events&events=20&end_date=2020-12-19).
 - Check out [summaries of upcoming meetings](https://forum.blockstack.org/c/community/Engineering-Meetings).
-- Review [notes from previous meetings](https://forum.blockstack.org/search?q=Engineering%20Meeting).
+- Review [notes from previous meetings](https://forum.blockstack.org/c/community/Dev-Calls).
 - Talk to other community developers on [Discord](https://discord.gg/SHAzPgM) in the meantime.
 
 ## Working Groups
